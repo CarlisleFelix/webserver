@@ -1,0 +1,43 @@
+2023-12-15 05:43:21.524848 [info] : ========== Server init ==========
+2023-12-15 05:43:21.524865 [info] : Port:1316, OpenLinger: false
+2023-12-15 05:43:21.524869 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-12-15 05:43:21.524871 [info] : LogSys level: 1
+2023-12-15 05:43:21.524872 [info] : srcDir: /home/yuhang/webserver/resources/
+2023-12-15 05:43:21.524874 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-12-15 05:43:21.524876 [info] : ========== Server start ==========
+2023-12-15 05:44:12.371064 [info] : Client[6](192.168.1.100:56427) in, userCount:1
+2023-12-15 05:44:12.371475 [info] : Client[6] in!
+2023-12-15 05:44:12.371515 [info] : Client[7](192.168.1.100:56683) in, userCount:2
+2023-12-15 05:44:12.371542 [info] : Client[7] in!
+2023-12-15 05:44:12.438374 [info] : Client[8](192.168.1.100:57195) in, userCount:3
+2023-12-15 05:44:12.438419 [info] : Client[8] in!
+2023-12-15 05:44:12.438611 [info] : Client[9](192.168.1.100:57451) in, userCount:4
+2023-12-15 05:44:12.438635 [info] : Client[9] in!
+2023-12-15 05:44:12.439633 [info] : Client[10](192.168.1.100:57707) in, userCount:5
+2023-12-15 05:44:12.439688 [info] : Client[10] in!
+2023-12-15 05:44:12.441817 [info] : Client[11](192.168.1.100:57963) in, userCount:6
+2023-12-15 05:44:12.441907 [info] : Client[11] in!
+2023-12-15 06:06:11.271254 [info] : ========== Server init ==========
+2023-12-15 06:06:11.271272 [info] : Port:1316, OpenLinger: false
+2023-12-15 06:06:11.271278 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-12-15 06:06:11.271324 [info] : LogSys level: 1
+2023-12-15 06:06:11.271329 [info] : srcDir: /home/yuhang/webserver/resources/
+2023-12-15 06:06:11.271330 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-12-15 06:06:11.271401 [info] : ========== Server start ==========
+2023-12-15 06:06:21.082736 [info] : Client[18](192.168.1.100:59504) in, userCount:1
+2023-12-15 06:06:21.082805 [info] : Client[18] in!
+2023-12-15 06:06:21.082886 [info] : Client[21](192.168.1.100:59760) in, userCount:2
+2023-12-15 06:06:21.082910 [info] : Client[21] in!
+2023-12-15 06:06:21.147958 [info] : Client[22](192.168.1.100:60016) in, userCount:3
+2023-12-15 06:06:21.148324 [info] : Client[22] in!
+2023-12-15 06:06:21.148353 [info] : Client[23](192.168.1.100:60272) in, userCount:4
+2023-12-15 06:06:21.148363 [info] : Client[23] in!
+2023-12-15 06:06:21.148372 [info] : Client[24](192.168.1.100:60528) in, userCount:5
+2023-12-15 06:06:21.148382 [info] : Client[24] in!
+2023-12-15 06:06:21.148389 [info] : Client[25](192.168.1.100:60784) in, userCount:6
+2023-12-15 06:06:21.148395 [info] : Client[25] in!
+2023-12-15 06:06:33.329726 [info] : Verify name:yuhang pwd:zhangyu111
+2023-12-15 06:06:33.331162 [error]: RequestLine Error
+2023-12-15 06:06:33.331592 [info] : Client[23] quit!
+2023-12-15 06:06:33.331922 [info] : Client[23](192.168.1.100:60272) quit, UserCount:5
+2023-12-15 06:06:33.383102 [info] : Client[23](192.168.1.100:63344) in, userCount:6
